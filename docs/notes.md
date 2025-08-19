@@ -10,3 +10,4 @@ Notes and usage details for graphql-security-academy.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
